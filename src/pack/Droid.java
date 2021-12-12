@@ -31,6 +31,12 @@ public class Droid {
 
     // Description of constructor
     public String toString() {
+
+        System.out.println();
+        System.out.println();
+        System.out.println();
+        System.out.println();
+        System.out.println();
         System.out.println("***********************************");
         System.out.println("*******      WARNING!!!     *******");
         System.out.println("*******    Droid Created    *******");
