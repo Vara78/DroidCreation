@@ -31,22 +31,11 @@ public class Droid {
 
     // Description of constructor
     public String toString() {
-
-        System.out.println();
-        System.out.println();
-        System.out.println();
-        System.out.println();
-        System.out.println();
         System.out.println("***********************************");
         System.out.println("*******      WARNING!!!     *******");
         System.out.println("*******    Droid Created    *******");
         System.out.println("***********************************");
         System.out.println();
-        System.out.println();
-        System.out.println();
-        System.out.println();
-        System.out.println();
-
         return "Hello, my droid name is " + name + ", and \nmy battery levels are " + batteryLevel + "% charged!\n";
     }
 
